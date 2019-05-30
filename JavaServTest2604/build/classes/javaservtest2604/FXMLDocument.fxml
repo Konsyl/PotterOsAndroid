@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" fx:id="myform" prefHeight="453.0" prefWidth="469.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="javaservtest2604.ControllerDoc">
+
+    <children>
+      <Canvas fx:id="mCanvas" height="453.0" width="469.0" />
+      <TextField fx:id="mText" layoutX="306.0" layoutY="15.0" text="Начальный текст" />
+   </children>
+</AnchorPane>
